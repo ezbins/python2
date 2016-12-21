@@ -8,9 +8,9 @@ import datetime
 
 host = "mail.caretek.com.tw"
 port = 587
-username = "dennis.peng@caretek.com.tw"
+username = ""
 #passwd = getpass.getpass()
-passwd = "99999ibm"
+passwd = ""
 from_email = username
 to_email = ['ty3627@gmail.com']
 
